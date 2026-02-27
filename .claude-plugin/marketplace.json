@@ -1,0 +1,20 @@
+{
+  "name": "trailblaze",
+  "owner": {
+    "name": "Trailblaze",
+    "email": "hello@trailblaze.work"
+  },
+  "metadata": {
+    "description": "Claude Code plugins by Trailblaze"
+  },
+  "plugins": [
+    {
+      "name": "prompt-trail",
+      "source": {
+        "source": "github",
+        "repo": "Trailblaze-work/claude-prompt-trail"
+      },
+      "description": "Captures Claude Code prompts and attaches them to git commits as git notes"
+    }
+  ]
+}
