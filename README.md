@@ -13,6 +13,7 @@ claude plugin marketplace add Trailblaze-work/claude-code-marketplace
 | Plugin | Description |
 |--------|-------------|
 | [prompt-trail](https://github.com/Trailblaze-work/claude-prompt-trail) | Captures Claude Code prompts and attaches them to git commits as git notes |
+| [session-trail](https://github.com/Trailblaze-work/claude-session-trail) | Captures Claude Code session transcripts on a dedicated git branch for replay |
 
 Install any plugin with:
 

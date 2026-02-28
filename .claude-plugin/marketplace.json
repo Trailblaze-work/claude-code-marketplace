@@ -15,6 +15,14 @@
         "repo": "Trailblaze-work/claude-prompt-trail"
       },
       "description": "Captures Claude Code prompts and attaches them to git commits as git notes"
+    },
+    {
+      "name": "session-trail",
+      "source": {
+        "source": "github",
+        "repo": "Trailblaze-work/claude-session-trail"
+      },
+      "description": "Captures Claude Code session transcripts on a dedicated git branch for replay"
     }
   ]
 }
